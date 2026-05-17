@@ -1,0 +1,8 @@
+{
+  "name": "Brekhus Remodeling",
+  "description": "Professional website for Brekhus Remodeling in Denver, CO specializing in high-end kitchen, bathroom, and custom shower remodels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
